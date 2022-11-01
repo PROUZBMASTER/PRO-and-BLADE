@@ -3,23 +3,28 @@
     background-repeat: no-repeat;
     background-size: contain;
 }
-.bol{
+
+.bol {
     background-color: #1E1E37;
 }
-#nav2{
+
+#nav2 {
     background: #1e1e3f;
 }
+
 .list {
     padding-left: 70px;
     margin: auto;
     display: flex;
     justify-content: center;
 }
-.section10{
+
+.section10 {
     margin-top: 18px;
     margin-bottom: -150px;
 }
-.browser{
+
+.browser {
     margin-left: 70px;
     font-family: 'SF Pro Text';
     font-style: normal;
@@ -27,6 +32,7 @@
     font-size: 20px;
     color: #FFFFFF;
 }
+
 #list_item a {
     border-top: 0.5px solid #5B00FB;
     font-style: normal;
@@ -128,7 +134,7 @@
     line-height: 21px;
     text-align: center;
     color: #FFFFFF;
-    
+
 }
 
 .card-text2 {
@@ -290,9 +296,9 @@
 }
 
 .input {
-    
+
     position: relative;
-    
+
     width: 450px;
     height: 48px;
     display: flex;
@@ -300,7 +306,8 @@
     margin-bottom: 60px;
     margin-top: -40px;
 }
-.teke{
+
+.teke {
     background: linear-gradient(90deg, #5D00FA 0%, #D70BCA 100%);
     border-radius: 48px;
     width: 59px;
@@ -310,16 +317,19 @@
     border: none;
     left: 259px;
 }
-.telegram{
+
+.telegram {
     padding-left: 5px;
 
 }
-#iconca{
+
+#iconca {
     position: absolute;
     top: 18px;
     left: 5px;
 
 }
+
 .email {
     margin-top: 10px;
     margin-left: 9px;
@@ -348,6 +358,7 @@
     border-bottom: 0.5px solid #D0D0D0;
     width: 238px;
 }
+
 .support {
     margin-top: -1033px;
     font-style: normal;
@@ -423,7 +434,8 @@
 .tot {
     list-style: none;
 }
-.sort{
+
+.sort {
     margin-right: 12px;
     font-family: 'SF Pro Text';
     font-style: normal;
@@ -431,7 +443,8 @@
     font-size: 14px;
     color: #FFFFFF;
 }
-.show{
+
+.show {
     margin-right: 6px;
     font-family: 'SF Pro Text';
     font-style: normal;
@@ -440,17 +453,18 @@
     color: #FFFFFF;
 }
 
-.sasu{
+.sasu {
     margin-left: 50px;
     margin-bottom: 49px;
     display: flex;
     margin-top: 66px;
 }
 
-.section8{
+.section8 {
     margin-top: 80px;
 }
-.page{
+
+.page {
     margin-top: 80px;
 }
 
@@ -461,6 +475,7 @@
     background: #1E1E37;
     opacity: 0.5;
 }
+
 .popu {
     margin-right: 14px;
     margin-top: -12px;
@@ -485,6 +500,7 @@
     font-size: 14px;
     color: #FFFFFF;
 }
+
 .blue {
     margin-left: 700px;
 }
@@ -608,6 +624,7 @@
     justify-content: space-between;
     margin: auto;
 }
+
 #section10 {
     margin-bottom: 89px;
 }
@@ -656,12 +673,12 @@
 }
 
 #in_put2 {
-    
+
     height: 48px;
     border: 0.5px solid #FFFFFF;
     border-radius: 48px;
     background: transparent;
-    padding-left:40px;
+    padding-left: 40px;
     margin-left: 32px;
     color: #ffffffff;
     width: 318px;
@@ -688,7 +705,7 @@
 }
 
 .Remember {
-    
+
     font-weight: 400;
     font-size: 14px;
     color: #FFFFFF;
@@ -712,7 +729,7 @@
 .Logining {
     width: 130px;
     height: 49px;
-   
+
     font-style: normal;
     font-weight: 600;
     font-size: 18px;
@@ -723,25 +740,30 @@
     border-radius: 46px;
     margin: 43px 32px 43px 222px;
 }
-.uf{
+
+.uf {
     margin-top: 16px;
 }
-.ufh{
+
+.ufh {
     margin-top: 89px;
 }
-.register{
+
+.register {
     font-weight: 500;
     font-size: 22px;
     color: #FFFFFF;
     margin-bottom: 28px;
 }
-.first{
+
+.first {
     font-weight: 400;
     font-size: 14px;
     color: #FFFFFF;
     margin-bottom: 8px;
 }
-.inpuh{
+
+.inpuh {
     padding-left: 24px;
     border: 0.5px solid #FFFFFF;
     border-radius: 48px;
@@ -750,31 +772,37 @@
     height: 48px;
     margin-bottom: 24px;
 }
-.addi{
+
+.addi {
     font-weight: 400;
     font-size: 14px;
     color: #FFFFFF;
 }
-#checkboxi{
+
+#checkboxi {
     margin-right: 10px;
 }
-.ufhi{
+
+.ufhi {
     margin-top: 141px;
 }
-.btni{
+
+.btni {
     margin-left: 165px;
     background: linear-gradient(90deg, #5D00FA 0%, #D70BCA 100%);
-border-radius: 46px;
-width: 156px;
-height: 49px;
-border: none;
+    border-radius: 46px;
+    width: 156px;
+    height: 49px;
+    border: none;
 }
-.reg{
+
+.reg {
     font-weight: 600;
-font-size: 18px;
-color: #FFFFFF;
-padding-top: 5px;
+    font-size: 18px;
+    color: #FFFFFF;
+    padding-top: 5px;
 }
-#foot{
+
+#foot {
     margin-top: 140px;
 }
