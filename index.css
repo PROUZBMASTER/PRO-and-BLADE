@@ -290,18 +290,36 @@
 }
 
 .input {
-    padding-top: -30px;
-    width: 400px;
+    
+    position: relative;
+    
+    width: 450px;
     height: 48px;
-    text-align: center;
-    border: 0.5px solid #D0D0D0;
-    border-radius: 48px;
     display: flex;
-    margin-left: 10px;
+    margin-left: 50px;
     margin-bottom: 60px;
     margin-top: -40px;
 }
+.teke{
+    background: linear-gradient(90deg, #5D00FA 0%, #D70BCA 100%);
+    border-radius: 48px;
+    width: 59px;
+    height: 48px;
+    text-align: center;
+    position: absolute;
+    border: none;
+    left: 259px;
+}
+.telegram{
+    padding-left: 5px;
 
+}
+#iconca{
+    position: absolute;
+    top: 18px;
+    left: 5px;
+
+}
 .email {
     margin-top: 10px;
     margin-left: 9px;
@@ -330,7 +348,6 @@
     border-bottom: 0.5px solid #D0D0D0;
     width: 238px;
 }
-
 .support {
     margin-top: -1033px;
     font-style: normal;
